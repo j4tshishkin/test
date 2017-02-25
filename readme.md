@@ -1,1 +1,1 @@
-Korporativniy portal 2 versiya test
+Korporativniy portal
