@@ -1,0 +1,12 @@
+C:\Users\mikha\Music\CIS\DataServices\bin\Debug\DataServices.dll.config
+C:\Users\mikha\Music\CIS\DataServices\bin\Debug\DataServices.dll
+C:\Users\mikha\Music\CIS\DataServices\bin\Debug\DataServices.pdb
+C:\Users\mikha\Music\CIS\DataServices\bin\Debug\DataAccess.dll
+C:\Users\mikha\Music\CIS\DataServices\bin\Debug\EntityFramework.dll
+C:\Users\mikha\Music\CIS\DataServices\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mikha\Music\CIS\DataServices\bin\Debug\DataAccess.pdb
+C:\Users\mikha\Music\CIS\DataServices\bin\Debug\EntityFramework.xml
+C:\Users\mikha\Music\CIS\DataServices\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mikha\Music\CIS\DataServices\obj\Debug\DataServices.csprojResolveAssemblyReference.cache
+C:\Users\mikha\Music\CIS\DataServices\obj\Debug\DataServices.dll
+C:\Users\mikha\Music\CIS\DataServices\obj\Debug\DataServices.pdb
